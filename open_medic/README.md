@@ -40,3 +40,54 @@ Ce notebook explore les ventes du médicament **Duphaston** en France entre 2017
 2. **Analyse Exploratoire :** Exploration des données pour identifier les tendances de vente.
 3. **Visualisation :** Création de graphiques et de tableaux pour illustrer les tendances et les anomalies.
 4. **Interprétation des Résultats :** Analyse des résultats pour tirer des conclusions sur les tendances et anomalies détectées.
+
+
+## Informations Complémentaires
+
+### Spécialités Médicales
+
+| PSP_SPE | Libellé Prescripteur                                      |
+|---------|------------------------------------------------------------|
+| 1       | MEDECINE GENERALE LIBERALE                                |
+| 2       | ANESTHESIOLOGIE - REANIMATION LIBERALE                    |
+| 3       | PATHOLOGIE CARDIO-VASCULAIRE LIBERALE                     |
+| 4       | CHIRURGIE LIBERALE                                        |
+| 5       | DERMATOLOGIE ET VENEROLOGIE LIBERALE                      |
+| 6       | RADIOLOGIE LIBERALE                                       |
+| 7       | GYNECOLOGIE OBSTETRIQUE LIBERALE                           |
+| 8       | GASTRO-ENTEROLOGIE ET HEPATOLOGIE LIBERALE                 |
+| 9       | MEDECINE INTERNE LIBERALE                                 |
+| 11      | OTO RHINO-LARYNGOLOGIE LIBERALE                            |
+| 12      | PEDIATRIE LIBERALE                                        |
+| 13      | PNEUMOLOGIE LIBERALE                                      |
+| 14      | RHUMATOLOGIE LIBERALE                                     |
+| 15      | OPHTALMOLOGIE LIBERALE                                    |
+| 17      | PSYCHIATRIE LIBERALE                                     |
+| 18      | STOMATOLOGIE LIBERALE                                     |
+| 19      | CHIRURGIE DENTAIRE                                       |
+| 31      | MEDECINE PHYSIQUE ET DE READAPTATION LIBERALE              |
+| 32      | NEUROLOGIE LIBERALE                                       |
+| 35      | NEPHROLOGIE LIBERALE                                      |
+| 36      | CHIRURGIE DENTAIRE (SPECIALISTE O.D.F.)                   |
+| 37      | ANATOMIE-CYTOLOGIE-PATHOLOGIQUE LIBERALE                   |
+| 38      | DIRECTEUR LABORATOIRE MEDECIN LIBERAL                      |
+| 42      | ENDOCRINOLOGIE ET METABOLISMES LIBERAL                     |
+
+### Régions et Départements d'Outre-mer
+
+| Code | Libellé                                               |
+|------|-------------------------------------------------------|
+| 5    | Régions et Départements d'outre-mer                   |
+| 11   | Ile-de-France                                         |
+| 24   | Centre-Val de Loire                                   |
+| 27   | Bourgogne-Franche-Comté                               |
+| 28   | Normandie                                             |
+| 32   | Nord-Pas-de-Calais-Picardie                           |
+| 44   | Alsace-Champagne-Ardenne-Lorraine                     |
+| 52   | Pays de la Loire                                     |
+| 53   | Bretagne                                              |
+| 75   | Aquitaine-Limousin-Poitou-Charentes                   |
+| 76   | Languedoc-Roussillon-Midi-Pyrénées                    |
+| 84   | Auvergne-Rhône-Alpes                                 |
+| 93   | Provence-Alpes-Côte d'Azur et Corse                   |
+| 0 et 99 | Inconnu                                             |
