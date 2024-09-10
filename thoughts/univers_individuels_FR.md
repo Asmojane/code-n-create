@@ -1,3 +1,16 @@
+# Introduction
+
+> *Le réel est relatif et dépend de l’observateur.*
+>
+> *Relativité et interdépendance des éléments*
+>
+> *Il n’y a pas de réalité unique. Il y a autant de mondes et de réalités qu’il y a d’observateurs. Chaque individu vit dans son propre univers, façonné par ses perceptions, ses croyances, ses expériences. Le monde que je perçois n’est pas le même que le tien, et ces univers personnels n’ont de consistance que lorsqu’ils entrent en collision, lorsqu’ils interagissent les uns avec les autres.*
+>
+> *Ce concept se relie directement à l’idée que le réel est infini. Ce que nous appelons « le réel » n’est en fait qu’un compromis entre toutes les perspectives. La réalité n’existe que parce que nos mondes s’entrechoquent, et que nous parvenons à trouver une sorte de terrain d’entente entre nos perceptions divergentes.*
+>
+> *Dans cette optique, l’observateur crée la réalité. Ce que nous voyons et percevons dépend entièrement du contexte dans lequel nous nous trouvons. Cela signifie qu’il n’y a pas de réalité « objective » qui existerait en dehors de l’interaction entre l’individu et son environnement.*
+
+
 # Relativité et interdépendance : la rencontre des multivers individuels
 
 L'idée que chaque individu perçoit la réalité différemment n'est pas juste une intuition ou une métaphore. C'est une réalité : **il existe autant d'univers que de spectateurs**. À chaque moment, **ma réalité n'est que le résultat de mon interprétation**, façonnée par mes expériences, mes pensées, et mes croyances. Et lorsque nos univers se rencontrent, la réalité neutre n'existe pas, elle n'est jamais figée ou objective.
