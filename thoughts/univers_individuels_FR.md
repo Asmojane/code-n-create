@@ -37,6 +37,9 @@ Tout ce que je perçois passe à travers mon **filtre interne**. Ce que j’ai v
 
 Les interactions humaines sont donc une rencontre de ces univers intérieurs. **Quand je parle avec toi**, ce n’est pas juste une conversation, c’est un **échange de réalités**. Ta perception influence la mienne, et vice-versa, mais cela ne crée pas une vérité neutre ou objective. **Ce que nous créons ensemble** est un compromis, une nouvelle réalité temporaire. Un peu comme le **orange** qui naît de la rencontre de **mon jaune** et de **ton rouge** : ce orange n’existe que parce que nos deux univers se sont rencontrés à cet instant précis.
 
+<img src="https://jane-mathieu.fr/img/univers24.png" alt="Univers" width="350" height="311">
+
+
 ### Le compromis : une réalité physique et spirituelle
 
 Ce compromis, ce **"orange"**, est à la fois **physique** et **spirituel**. Physique, parce que nos interactions modifient concrètement notre comportement, notre manière de réagir à l’autre. Spirituel, parce que **nos vérités entrent en collision** et doivent coexister. **Ma vérité n'est pas plus absolue que la tienne**, mais elle n'existe pas seule non plus. C’est dans ce compromis que nous trouvons un terrain d’entente, mais ce terrain n’est ni permanent ni figé.
