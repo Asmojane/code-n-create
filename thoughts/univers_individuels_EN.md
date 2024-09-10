@@ -25,7 +25,6 @@ This compromise is a **dynamic process**, a perpetual adjustment between differe
 
 In other words, **the reality we experience is not neutral**. It is the product of our interactions, our confrontations, and our adjustments. Each moment of our life is an exchange between multiple universes, and the result is a compromise, an **ephemeral “orange”** that couldn’t exist without **my yellow perception** and **your red**.
 
-<img src="https://jane-mathieu.fr/img/univers24.png" alt="Univers" width="350" height="311">
 
 ## Exploring How Each Person Co-Creates a Unique Reality Based on Their Own Inner Universe
 
@@ -38,6 +37,8 @@ When I look at the world, I don’t just see objective facts or universal truths
 Everything I perceive passes through my **inner filter**. What I’ve experienced, what I believe to be true, what I feel at a given moment: all of this influences how I see the world. **My perception is a projection**, a kind of distorting mirror that shows me a version of the world that exists only for me. And it’s the same for you, for everyone. **What you see**, what you feel, is your own version of reality.
 
 Human interactions are, therefore, a meeting of these inner universes. **When I speak with you**, it’s not just a conversation; it’s an **exchange of realities**. Your perception influences mine, and vice-versa, but this doesn’t create a neutral or objective truth. **What we create together** is a compromise, a new temporary reality. It’s like the **orange** that comes from the meeting of **my yellow** and **your red**: this orange exists only because our two universes met at that specific moment.
+
+<img src="https://jane-mathieu.fr/img/univers24.png" alt="Univers" width="350" height="311">
 
 ### The Compromise: A Physical and Spiritual Reality
 
