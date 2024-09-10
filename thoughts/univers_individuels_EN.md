@@ -25,6 +25,8 @@ This compromise is a **dynamic process**, a perpetual adjustment between differe
 
 In other words, **the reality we experience is not neutral**. It is the product of our interactions, our confrontations, and our adjustments. Each moment of our life is an exchange between multiple universes, and the result is a compromise, an **ephemeral “orange”** that couldn’t exist without **my yellow perception** and **your red**.
 
+<img src="https://jane-mathieu.fr/img/univers24.png" alt="Univers" width="350" height="311">
+
 ## Exploring How Each Person Co-Creates a Unique Reality Based on Their Own Inner Universe
 
 Each person lives in their own **inner universe**, and this universe is not just a vague or abstract impression. It’s a tangible reality: **there are as many universes as there are spectators**. My perception of the world is not neutral; it’s shaped by everything I’ve lived, everything I believe, and everything I feel. **I’m constantly creating my reality**, not in isolation, but through this unique lens that belongs to me.
