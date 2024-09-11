@@ -63,3 +63,11 @@ Philosopher **George Berkeley** asserted that “to be is to be perceived.” Th
 ### The Uncertainty Principle: Observation Changes Reality
 
 In quantum physics, **Heisenberg’s uncertainty principle** shows that **the very act of observing changes the state of what is observed**. It’s as if, by perceiving the world, I’m already altering what I’m perceiving. This idea reinforces the concept that **my reality is co-created** by my perceptions. It’s not just that I observe a neutral external world: **by observing it, I’m already changing it**.
+
+# Conclusion: The Illusion of Identity and Multiple Realities
+
+We are multiple. I am multiple, even within my own existence, as the "me" of yesterday no longer exists in the same way, and with it disappears its universe, its own reality. Every interaction creates a new universe, a new reality, distinct from the one I may have shared with someone else before. We are sometimes surprised to see our words change depending on the context or the person we’re speaking with, but maybe that’s because we change at every moment. There could be as many versions of us as there are other people, as many realities as there are interactions. In the end, perhaps we are not a single person, but an entanglement of temporary identities, constantly renewing themselves.
+
+Perhaps the energy we expend daily is mainly to keep ourselves in the illusion of coherence, to maintain the idea that our identity is stable and continuous. This work seems necessary, like a compromise between all these versions of ourselves, to preserve the appearance of a stable timeline. This continuity is maintained by our memories, sometimes carefully chosen, sometimes distorted to better fit the narrative we need to believe.
+
+Thus, reality seems to bend under our perceptions. Our memories, our morals, our senses: these may be tools designed to keep us within this illusion of identity, like guardians filtering out the inconsistencies. These filters create the impression of continuity, a bridge between each individual universe we share with others, even though, in truth, we are likely a multiplicity of realities, constantly recreated through our interactions and experiences.
