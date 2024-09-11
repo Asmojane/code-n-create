@@ -63,3 +63,12 @@ Le philosophe **George Berkeley** affirmait que "l’être, c’est être perçu
 ### Principe d'incertitude : l'observation change la réalité
 
 En physique quantique, le **principe d'incertitude d'Heisenberg** montre que **l’observation elle-même modifie l’état de ce qui est observé**. C’est comme si en percevant le monde, je modifiais déjà ce que je suis en train de percevoir. Cette idée renforce l’idée que **ma réalité est co-créée** par mes perceptions. Ce n’est pas juste que j’observe un monde extérieur neutre : **en l’observant, je le change déjà**.
+
+# Conclusion : L'illusion de l'identité et des univers multiples
+
+Nous sommes multiples. Je suis multiple, déjà dans ma propre existence, car le "moi" d’hier n’existe plus de la même manière, et avec lui disparaît son univers, sa réalité propre. Chaque interaction crée un nouvel univers, une nouvelle réalité, distincte de celle que j'ai pu partager auparavant avec quelqu’un d’autre. Nous sommes parfois surpris de voir nos propos changer en fonction du contexte ou de l'interlocuteur, mais peut-être cela vient du fait que nous changeons à chaque instant. Il pourrait y avoir autant de versions de nous qu'il y a d’autres personnes, autant de réalités que d’interactions. Au fond, peut-être que nous ne sommes pas une seule personne, mais un enchevêtrement d’identités temporaires, qui se renouvellent sans cesse.
+
+Peut-être que l’énergie que nous déployons au quotidien sert surtout à nous maintenir dans l'illusion d'une cohérence, à maintenir l’idée que notre identité est stable et continue. Ce travail semble nécessaire, comme un compromis entre toutes ces versions de nous-mêmes, pour préserver l'apparence d'une ligne temporelle stable. Cette continuité est entretenue par nos souvenirs, parfois choisis soigneusement, parfois déformés pour mieux s’adapter au récit que nous avons besoin de croire.
+
+Ainsi, la réalité semble se plier sous nos perceptions. Nos souvenirs, notre moralité, nos sens : ce sont peut-être des outils qui servent à nous maintenir dans cette illusion d'identité, comme des gardiens filtrant les incohérences. Ces filtres créent l’impression d’une continuité, d’un pont entre chaque univers individuel que nous partageons avec les autres, même si, en vérité, nous sommes sans doute une multiplicité de réalités, sans cesse recréées au fil de nos interactions et de nos expériences.
+
