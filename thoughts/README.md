@@ -1,4 +1,18 @@
-# Pensées et Réflexions
+# Thoughts and Reflections EN
+
+Welcome to this section of my GitHub, where I share my personal thoughts, reflections on humans, AI, and existence. This project was born from my desire to explore in-depth concepts that fascinate me and to connect them to broader issues, particularly regarding the interactions between humans and machines.
+
+## Why share these reflections?
+
+I don't claim to provide definitive, unique, or even interesting answers, but I feel the need to release an energy that’s blocked inside me. My second objective is to encourage others to question their **concepts of individuality and singularity**, and even their own existence.
+
+## Open to collaboration and feedback
+
+I am open to any collaboration or discussion around these ideas. If you have feedback, critiques, or suggestions, I’d be happy to discuss them. Feel free to contribute or comment on what I share.
+
+
+
+# Pensées et Réflexions FR
 
 Bienvenue dans cette section de mon GitHub, où je partage mes pensées personnelles, mes réflexions autour de l'humain, de l'IA, et de l'existence. Ce projet est né de mon désir d’explorer en profondeur des concepts qui me passionnent et de les relier à des problématiques plus larges, notamment en ce qui concerne les interactions entre les machines et l'humain.
 
