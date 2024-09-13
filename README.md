@@ -14,9 +14,6 @@ This repository is a collection of my work, and research. **data science**, **an
 - **Machine Learning**  
     Projects related to **cryptocurrency analysis**.
 
-- **Philosophical Reflections**  
-    Personal writings and thoughts on **various philosophical topics** with an investigative approach.
-
 ---
 
 ## Installation and Usage
