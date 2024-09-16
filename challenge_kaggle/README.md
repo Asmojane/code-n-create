@@ -13,8 +13,8 @@ The Titanic competition is a classic challenge in machine learning. The goal is 
 
 In my three notebooks for this challenge:
 
-- I began by exploring the dataset, handling missing data (e.g., filling in missing ages with the median), and creating new features such as family size and extracting titles from names.
-- I preprocessed categorical data, including encoding gender and embarked location, and dropped irrelevant or highly incomplete columns like the cabin number.
+- I began by exploring the dataset, handling missing data, and creating new features such as family size and extracting titles from names.
+- I preprocessed categorical data, including encoding gender and embarked location.
 - I trained multiple models (e.g., Logistic Regression, Decision Trees) and tuned hyperparameters. The final model achieved a score of **0.76555** on the public leaderboard.
 
 ---
@@ -31,8 +31,7 @@ In this notebook:
 ### The CNN architecture includes:
 - Two convolutional layers with filters of sizes 32 and 64.
 - MaxPooling layers to reduce the spatial dimensions.
-- Fully connected layers to classify the output into one of 10 digit classes.
 - A Dropout layer to prevent overfitting.
 
-The model was trained using the **Adam optimizer** with **categorical cross-entropy** as the loss function. I also implemented a learning rate reduction strategy, which reduces the learning rate if the validation accuracy plateaus during training. The model achieved a high accuracy of **0.98867** on the validation set.
+The model achieved a high accuracy of **0.98867** on the validation set.
 
