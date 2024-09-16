@@ -11,8 +11,8 @@ Le challenge Titanic est un classique en machine learning. L'objectif est de pr�
 
 Dans mes trois notebooks pour ce challenge :
 
-- J'ai commencé par explorer le jeu de données, traiter les valeurs manquantes (par exemple, en remplissant les âges manquants avec la médiane), et créer de nouvelles fonctionnalités comme la taille de la famille et l'extraction de titres à partir des noms.
-- J'ai prétraité les données catégorielles, y compris l'encodage du genre et du lieu d'embarquement, et supprimé les colonnes non pertinentes ou très incomplètes comme les numéros de cabine.
+- J'ai commencé par explorer le jeu de données, traiter les valeurs manquantes, et créer de nouvelles fonctionnalités comme la taille de la famille et l'extraction de titres à partir des noms.
+- J'ai prétraité les données catégorielles, y compris l'encodage du genre et du lieu d'embarquement.
 - J'ai entraîné plusieurs modèles (par exemple, Régression Logistique, Arbres de Décision) et ajusté les hyperparamètres. Le modèle final a obtenu un score de **0.76555** sur le tableau public.
 
 ---
@@ -29,7 +29,6 @@ Dans ce notebook :
 ### L'architecture du CNN comprend :
 - Deux couches de convolution avec des filtres de taille 32 et 64.
 - Des couches de MaxPooling pour réduire les dimensions spatiales.
-- Des couches entièrement connectées pour classer la sortie en une des 10 classes de chiffres.
 - Une couche Dropout pour éviter le surapprentissage.
 
-Le modèle a été entraîné en utilisant l'**optimiseur Adam** avec la fonction de perte **categorical cross-entropy**. J'ai également mis en place une stratégie de réduction du taux d'apprentissage, qui réduit le taux si la précision de validation stagne pendant l'entraînement. Le modèle a atteint une précision élevée de **0.98867** sur l'ensemble de validation.
+Le modèle a atteint une précision élevée de **0.98867** sur l'ensemble de validation.
